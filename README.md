@@ -1,1 +1,1 @@
-Writeups for the Insomni'hack 2024 CTF challenges [FlagGPT3.5](FlagGPT-3.5/README.md) and [FlagGPT4](FlagGPT-4/README.md)
+Writeups for the Insomni'hack 2024 CTF challenges [FlagGPT3.5](FlagGPT-3.5/index.md) and [FlagGPT4](FlagGPT-4/index.md)
