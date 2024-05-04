@@ -7,7 +7,7 @@ draft = false
 
 ## Introduction
 
-This challenge is based on the FlagGPT-3.5 challenge. Please start by reading the [FlagGPT-3.5 writeup](https://github.com/LES-NERDS/Insomni-hack-2024-writeups/tree/main/FlagGPT-3.5/README.md). The structure of the challenge is the same. The only differences are as follow:
+This challenge is based on the FlagGPT-3.5 challenge. Please start by reading the [FlagGPT-3.5 writeup](../FlagGPT-3.5/). The structure of the challenge is the same. The only differences are as follow:
 
 - The `params` matrix contains different values, while keeping the same properties:
 
