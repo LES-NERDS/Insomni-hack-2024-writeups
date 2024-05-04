@@ -1,3 +1,8 @@
++++
+title = 'FlagGPT-4'
+date = 2024-05-01T08:08:08+01:00
+draft = false
++++
 # FlagGPT-4
 
 ## Introduction
