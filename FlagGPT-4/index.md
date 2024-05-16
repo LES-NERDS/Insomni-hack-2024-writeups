@@ -7,7 +7,7 @@ draft = false
 
 ## Introduction
 
-This challenge is based on the FlagGPT-3.5 challenge. Please start by reading the [FlagGPT-3.5 writeup](../flaggpt-3.5/). The structure of the challenge is the same. The only differences are as follow:
+This challenge is based on the FlagGPT-3.5 challenge. Please start by reading the [FlagGPT-3.5 writeup](../flaggpt-3.5/index.md). The structure of the challenge is the same. The only differences are as follow:
 
 - The `params` matrix contains different values, while keeping the same properties:
 
